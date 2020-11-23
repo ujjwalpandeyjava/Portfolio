@@ -27,3 +27,6 @@
 .back1 {
     background-image: linear-gradient(#f9ca24, #be2edd);
 }
+#whoIAmImage{
+    border-radius: 55px;
+}
