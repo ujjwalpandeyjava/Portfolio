@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.b819ce62.css",
+    "main.js": "/Portfolio/static/js/main.69a34c9b.js",
+    "static/media/no-bg-UjjwalPandey.png": "/Portfolio/static/media/no-bg-UjjwalPandey.ce4f5e014e9487f6321b.png",
+    "static/media/ujjwalAvatar3.png": "/Portfolio/static/media/ujjwalAvatar3.63b2ae7ecb2a77ea2cea.png",
+    "static/media/ujjwalAvatar1Copy.png": "/Portfolio/static/media/ujjwalAvatar1Copy.e09b21c1c86e70ee8e5f.png",
+    "static/media/polygon-scatter-haikei.svg": "/Portfolio/static/media/polygon-scatter-haikei.03b19b5f3fb3a867c20d.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.b819ce62.css.map": "/Portfolio/static/css/main.b819ce62.css.map",
+    "main.69a34c9b.js.map": "/Portfolio/static/js/main.69a34c9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b819ce62.css",
+    "static/js/main.69a34c9b.js"
+  ]
+}
