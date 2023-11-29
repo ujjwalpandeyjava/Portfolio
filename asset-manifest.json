@@ -1,19 +1,17 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.ead991b8.css",
-    "main.js": "/Portfolio/static/js/main.0f7cb79d.js",
-    "static/media/no-bg-UjjwalPandey.png": "/Portfolio/static/media/no-bg-UjjwalPandey.ce4f5e014e9487f6321b.png",
+    "main.css": "/Portfolio/static/css/main.289597ca.css",
+    "main.js": "/Portfolio/static/js/main.96e47927.js",
+    "static/media/developer1.svg": "/Portfolio/static/media/developer1.c9e0c37b22bec74e37b418f578a12f87.svg",
     "static/media/1670752620885.jpg": "/Portfolio/static/media/1670752620885.9beee3af2196db0b2c6c.jpg",
     "static/media/ujjwalAvatar3.png": "/Portfolio/static/media/ujjwalAvatar3.63b2ae7ecb2a77ea2cea.png",
-    "static/media/ujjwalAvatar1Copy.png": "/Portfolio/static/media/ujjwalAvatar1Copy.e09b21c1c86e70ee8e5f.png",
     "static/media/contact.png": "/Portfolio/static/media/contact.5c08eab5b3759511f598.png",
-    "static/media/polygon-scatter-haikei.svg": "/Portfolio/static/media/polygon-scatter-haikei.03b19b5f3fb3a867c20d.svg",
     "index.html": "/Portfolio/index.html",
-    "main.ead991b8.css.map": "/Portfolio/static/css/main.ead991b8.css.map",
-    "main.0f7cb79d.js.map": "/Portfolio/static/js/main.0f7cb79d.js.map"
+    "main.289597ca.css.map": "/Portfolio/static/css/main.289597ca.css.map",
+    "main.96e47927.js.map": "/Portfolio/static/js/main.96e47927.js.map"
   },
   "entrypoints": [
-    "static/css/main.ead991b8.css",
-    "static/js/main.0f7cb79d.js"
+    "static/css/main.289597ca.css",
+    "static/js/main.96e47927.js"
   ]
 }
