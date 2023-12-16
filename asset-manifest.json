@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.68d3a205.css",
-    "main.js": "/Portfolio/static/js/main.a8e92e7a.js",
+    "main.css": "/Portfolio/static/css/main.fdafa31a.css",
+    "main.js": "/Portfolio/static/js/main.0fb26641.js",
     "static/media/buildServer.png": "/Portfolio/static/media/buildServer.cd3a8edebc0883d4ddb1.png",
     "static/media/working_on_laptop.png": "/Portfolio/static/media/working_on_laptop.981ce5857be9f917a466.png",
     "static/media/cvPreviewImage.jpeg": "/Portfolio/static/media/cvPreviewImage.4d2a2cf9e4abc89bc119.jpeg",
@@ -21,7 +21,6 @@
     "static/media/Complete Best ever Java Course 2000+ example, 92 hours lecture.jpg": "/Portfolio/static/media/Complete Best ever Java Course 2000+ example, 92 hours lecture.e0dd1d4dcbada9d079ec.jpg",
     "static/media/Daily Brief Internship Certificate Ujjwal.jpg": "/Portfolio/static/media/Daily Brief Internship Certificate Ujjwal.b6072d43d83803f6c184.jpg",
     "static/media/doItTogether.svg": "/Portfolio/static/media/doItTogether.b29492a27d677547e9049cc73894c222.svg",
-    "static/media/testThumbNail.png": "/Portfolio/static/media/testThumbNail.0e92e8c397ecf939d432.png",
     "static/media/developer1.svg": "/Portfolio/static/media/developer1.c9e0c37b22bec74e37b418f578a12f87.svg",
     "static/media/1670752620885.jpg": "/Portfolio/static/media/1670752620885.9beee3af2196db0b2c6c.jpg",
     "static/media/React- 6.5hr course.jpg": "/Portfolio/static/media/React- 6.5hr course.df5ebf53dd9a5d11452a.jpg",
@@ -31,11 +30,11 @@
     "static/media/ujjwalAvatar3.png": "/Portfolio/static/media/ujjwalAvatar3.63b2ae7ecb2a77ea2cea.png",
     "static/media/contact.png": "/Portfolio/static/media/contact.5c08eab5b3759511f598.png",
     "index.html": "/Portfolio/index.html",
-    "main.68d3a205.css.map": "/Portfolio/static/css/main.68d3a205.css.map",
-    "main.a8e92e7a.js.map": "/Portfolio/static/js/main.a8e92e7a.js.map"
+    "main.fdafa31a.css.map": "/Portfolio/static/css/main.fdafa31a.css.map",
+    "main.0fb26641.js.map": "/Portfolio/static/js/main.0fb26641.js.map"
   },
   "entrypoints": [
-    "static/css/main.68d3a205.css",
-    "static/js/main.a8e92e7a.js"
+    "static/css/main.fdafa31a.css",
+    "static/js/main.0fb26641.js"
   ]
 }
