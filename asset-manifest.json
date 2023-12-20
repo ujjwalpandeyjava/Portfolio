@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.02cc37d3.css",
-    "main.js": "/Portfolio/static/js/main.ec298899.js",
+    "main.css": "/Portfolio/static/css/main.fd4921e8.css",
+    "main.js": "/Portfolio/static/js/main.670a7493.js",
     "static/media/buildServer.png": "/Portfolio/static/media/buildServer.cd3a8edebc0883d4ddb1.png",
     "static/media/working_on_laptop.png": "/Portfolio/static/media/working_on_laptop.981ce5857be9f917a466.png",
     "static/media/FrontEnd2.png": "/Portfolio/static/media/FrontEnd2.7a267a75add83d4218c2.png",
+    "static/media/ujjwal_Pandey_C_V.pdf": "/Portfolio/static/media/ujjwal_Pandey_C_V.28085a8252286578dd2e.pdf",
     "static/media/buildServer2.png": "/Portfolio/static/media/buildServer2.ffb201f2955a9a2bbc0a.png",
     "static/media/FrontEnd.png": "/Portfolio/static/media/FrontEnd.4c682b64f74787faa93c.png",
-    "static/media/ujjwal_Pandey_C_V.pdf": "/Portfolio/static/media/ujjwal_Pandey_C_V.2dc7387c23531909cc1e.pdf",
     "static/media/cvPreviewImage.jpeg": "/Portfolio/static/media/cvPreviewImage.69351017c45666c8eab4.jpeg",
     "static/media/Java Collection Frameworks + Generics+ 5.5Hrs.jpg": "/Portfolio/static/media/Java Collection Frameworks + Generics+ 5.5Hrs.8f3331c6cff2afd5ffe5.jpg",
     "static/media/React Js - Complete Guid fro Frontend Web Development.jpg": "/Portfolio/static/media/React Js - Complete Guid fro Frontend Web Development.ab442926c31655b11bc2.jpg",
@@ -30,11 +30,11 @@
     "static/media/ujjwalAvatar3.png": "/Portfolio/static/media/ujjwalAvatar3.63b2ae7ecb2a77ea2cea.png",
     "static/media/contact.png": "/Portfolio/static/media/contact.5c08eab5b3759511f598.png",
     "index.html": "/Portfolio/index.html",
-    "main.02cc37d3.css.map": "/Portfolio/static/css/main.02cc37d3.css.map",
-    "main.ec298899.js.map": "/Portfolio/static/js/main.ec298899.js.map"
+    "main.fd4921e8.css.map": "/Portfolio/static/css/main.fd4921e8.css.map",
+    "main.670a7493.js.map": "/Portfolio/static/js/main.670a7493.js.map"
   },
   "entrypoints": [
-    "static/css/main.02cc37d3.css",
-    "static/js/main.ec298899.js"
+    "static/css/main.fd4921e8.css",
+    "static/js/main.670a7493.js"
   ]
 }
