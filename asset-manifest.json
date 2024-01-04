@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.c8e3d4d1.css",
-    "main.js": "/Portfolio/static/js/main.e7e15c3f.js",
+    "main.css": "/Portfolio/static/css/main.945e175f.css",
+    "main.js": "/Portfolio/static/js/main.69e553b9.js",
     "static/media/pdf.worker.min.js": "/Portfolio/static/media/pdf.worker.min.08bbaed10faffed9b94b.js",
     "static/media/buildServer.png": "/Portfolio/static/media/buildServer.cd3a8edebc0883d4ddb1.png",
     "static/media/working_on_laptop.png": "/Portfolio/static/media/working_on_laptop.981ce5857be9f917a466.png",
     "static/media/FrontEnd2.png": "/Portfolio/static/media/FrontEnd2.7a267a75add83d4218c2.png",
+    "static/media/ujjwal_Pandey_C_V.pdf": "/Portfolio/static/media/ujjwal_Pandey_C_V.85205e2a6deae109702c.pdf",
     "static/media/buildServer2.png": "/Portfolio/static/media/buildServer2.ffb201f2955a9a2bbc0a.png",
-    "static/media/ujjwal_Pandey_C_V.pdf": "/Portfolio/static/media/ujjwal_Pandey_C_V.7b81469e27dacad13628.pdf",
     "static/media/FrontEnd.png": "/Portfolio/static/media/FrontEnd.4c682b64f74787faa93c.png",
     "static/media/Java Collection Frameworks + Generics+ 5.5Hrs.jpg": "/Portfolio/static/media/Java Collection Frameworks + Generics+ 5.5Hrs.8f3331c6cff2afd5ffe5.jpg",
     "static/media/React Js - Complete Guid fro Frontend Web Development.jpg": "/Portfolio/static/media/React Js - Complete Guid fro Frontend Web Development.ab442926c31655b11bc2.jpg",
@@ -29,12 +29,10 @@
     "static/media/Spring Framework with Spring Boot.jpg": "/Portfolio/static/media/Spring Framework with Spring Boot.594e385c8b3488a42f9f.jpg",
     "static/media/ujjwalAvatar3.png": "/Portfolio/static/media/ujjwalAvatar3.63b2ae7ecb2a77ea2cea.png",
     "static/media/contact.png": "/Portfolio/static/media/contact.5c08eab5b3759511f598.png",
-    "index.html": "/Portfolio/index.html",
-    "main.c8e3d4d1.css.map": "/Portfolio/static/css/main.c8e3d4d1.css.map",
-    "main.e7e15c3f.js.map": "/Portfolio/static/js/main.e7e15c3f.js.map"
+    "index.html": "/Portfolio/index.html"
   },
   "entrypoints": [
-    "static/css/main.c8e3d4d1.css",
-    "static/js/main.e7e15c3f.js"
+    "static/css/main.945e175f.css",
+    "static/js/main.69e553b9.js"
   ]
 }
