@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.945e175f.css",
-    "main.js": "/Portfolio/static/js/main.69e553b9.js",
+    "main.js": "/Portfolio/static/js/main.7ab0f71e.js",
     "static/media/pdf.worker.min.js": "/Portfolio/static/media/pdf.worker.min.08bbaed10faffed9b94b.js",
     "static/media/buildServer.png": "/Portfolio/static/media/buildServer.cd3a8edebc0883d4ddb1.png",
     "static/media/working_on_laptop.png": "/Portfolio/static/media/working_on_laptop.981ce5857be9f917a466.png",
     "static/media/FrontEnd2.png": "/Portfolio/static/media/FrontEnd2.7a267a75add83d4218c2.png",
-    "static/media/ujjwal_Pandey_C_V.pdf": "/Portfolio/static/media/ujjwal_Pandey_C_V.85205e2a6deae109702c.pdf",
+    "static/media/ujjwalpandey_CV_SDE-II.pdf": "/Portfolio/static/media/ujjwalpandey_CV_SDE-II.a2c35b6e9157811dd30e.pdf",
     "static/media/buildServer2.png": "/Portfolio/static/media/buildServer2.ffb201f2955a9a2bbc0a.png",
     "static/media/FrontEnd.png": "/Portfolio/static/media/FrontEnd.4c682b64f74787faa93c.png",
     "static/media/Java Collection Frameworks + Generics+ 5.5Hrs.jpg": "/Portfolio/static/media/Java Collection Frameworks + Generics+ 5.5Hrs.8f3331c6cff2afd5ffe5.jpg",
@@ -33,6 +33,6 @@
   },
   "entrypoints": [
     "static/css/main.945e175f.css",
-    "static/js/main.69e553b9.js"
+    "static/js/main.7ab0f71e.js"
   ]
 }
