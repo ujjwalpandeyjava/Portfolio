@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.945e175f.css",
-    "main.js": "/Portfolio/static/js/main.e08918ad.js",
+    "main.css": "/Portfolio/static/css/main.481fdd85.css",
+    "main.js": "/Portfolio/static/js/main.19e3ef18.js",
     "static/media/pdf.worker.min.js": "/Portfolio/static/media/pdf.worker.min.08bbaed10faffed9b94b.js",
     "static/media/buildServer.png": "/Portfolio/static/media/buildServer.cd3a8edebc0883d4ddb1.png",
     "static/media/working_on_laptop.png": "/Portfolio/static/media/working_on_laptop.981ce5857be9f917a466.png",
@@ -10,12 +10,9 @@
     "static/media/buildServer2.png": "/Portfolio/static/media/buildServer2.ffb201f2955a9a2bbc0a.png",
     "static/media/FrontEnd.png": "/Portfolio/static/media/FrontEnd.4c682b64f74787faa93c.png",
     "static/media/Java Collection Frameworks + Generics+ 5.5Hrs.jpg": "/Portfolio/static/media/Java Collection Frameworks + Generics+ 5.5Hrs.8f3331c6cff2afd5ffe5.jpg",
-    "static/media/React Js - Complete Guid fro Frontend Web Development.jpg": "/Portfolio/static/media/React Js - Complete Guid fro Frontend Web Development.ab442926c31655b11bc2.jpg",
     "static/media/Complete Front-End Web Development Course.jpg": "/Portfolio/static/media/Complete Front-End Web Development Course.4c9b13455c713ffd8c26.jpg",
     "static/media/Awesome - Java Programming.jpg": "/Portfolio/static/media/Awesome - Java Programming.454510e9d363c74a3ac6.jpg",
-    "static/media/Bootstrap - Unleash the power Rapid web Development.jpg": "/Portfolio/static/media/Bootstrap - Unleash the power Rapid web Development.51eef2d6afe646790bdb.jpg",
     "static/media/Bootstrap 4 with projects.jpg": "/Portfolio/static/media/Bootstrap 4 with projects.025403c5c965362d9406.jpg",
-    "static/media/Java Programming - Complete Beginner to Advanced.jpg": "/Portfolio/static/media/Java Programming - Complete Beginner to Advanced.a011732663feff12cab6.jpg",
     "static/media/Advanced JS - JavaScript for QA Engineers and SDETs.jpg": "/Portfolio/static/media/Advanced JS - JavaScript for QA Engineers and SDETs.cc89a510f3454e753a1c.jpg",
     "static/media/Web Development - 22 Courses in 1 Course.jpg": "/Portfolio/static/media/Web Development - 22 Courses in 1 Course.e26edc076d309a61d698.jpg",
     "static/media/Complete Best ever Java Course 2000+ example, 92 hours lecture.jpg": "/Portfolio/static/media/Complete Best ever Java Course 2000+ example, 92 hours lecture.e0dd1d4dcbada9d079ec.jpg",
@@ -25,14 +22,13 @@
     "static/media/1670752620885.jpg": "/Portfolio/static/media/1670752620885.9beee3af2196db0b2c6c.jpg",
     "static/media/React- 6.5hr course.jpg": "/Portfolio/static/media/React- 6.5hr course.df5ebf53dd9a5d11452a.jpg",
     "static/media/Java Servlets and JSP - Build Java EE app.jpg": "/Portfolio/static/media/Java Servlets and JSP - Build Java EE app.35ff1fa9787d59a089db.jpg",
-    "static/media/Python from Udemy.jpg": "/Portfolio/static/media/Python from Udemy.ab4a2031a4fa199f293f.jpg",
     "static/media/Spring Framework with Spring Boot.jpg": "/Portfolio/static/media/Spring Framework with Spring Boot.594e385c8b3488a42f9f.jpg",
     "static/media/ujjwalAvatar3.png": "/Portfolio/static/media/ujjwalAvatar3.63b2ae7ecb2a77ea2cea.png",
     "static/media/contact.png": "/Portfolio/static/media/contact.5c08eab5b3759511f598.png",
     "index.html": "/Portfolio/index.html"
   },
   "entrypoints": [
-    "static/css/main.945e175f.css",
-    "static/js/main.e08918ad.js"
+    "static/css/main.481fdd85.css",
+    "static/js/main.19e3ef18.js"
   ]
 }
