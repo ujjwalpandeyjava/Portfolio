@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.868441c8.css",
-    "main.js": "/Portfolio/static/js/main.dd266b77.js",
+    "main.js": "/Portfolio/static/js/main.29d37808.js",
+    "static/media/Java Programming.jpg": "/Portfolio/static/media/Java Programming.5a4a7dd9065147871abc.jpg",
     "static/media/buildServer.png": "/Portfolio/static/media/buildServer.cd3a8edebc0883d4ddb1.png",
     "static/media/working_on_laptop.png": "/Portfolio/static/media/working_on_laptop.981ce5857be9f917a466.png",
+    "static/media/ujjwal_full_stack_C_V.pdf": "/Portfolio/static/media/ujjwal_full_stack_C_V.02009b56c06f13d5ad47.pdf",
     "static/media/FrontEnd2.png": "/Portfolio/static/media/FrontEnd2.7a267a75add83d4218c2.png",
-    "static/media/ujjwal_full_stack_C_V.pdf": "/Portfolio/static/media/ujjwal_full_stack_C_V.938f9b83fd6f6b3956e3.pdf",
     "static/media/buildServer2.png": "/Portfolio/static/media/buildServer2.ffb201f2955a9a2bbc0a.png",
     "static/media/FrontEnd.png": "/Portfolio/static/media/FrontEnd.4c682b64f74787faa93c.png",
     "static/media/Java Collection Frameworks + Generics+ 5.5Hrs.jpg": "/Portfolio/static/media/Java Collection Frameworks + Generics+ 5.5Hrs.8f3331c6cff2afd5ffe5.jpg",
@@ -28,6 +29,6 @@
   },
   "entrypoints": [
     "static/css/main.868441c8.css",
-    "static/js/main.dd266b77.js"
+    "static/js/main.29d37808.js"
   ]
 }
