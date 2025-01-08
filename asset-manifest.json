@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.f7cdf7e6.css",
-    "main.js": "/Portfolio/static/js/main.f845eb0e.js",
+    "main.css": "/Portfolio/static/css/main.f11d05b1.css",
+    "main.js": "/Portfolio/static/js/main.8ed199c7.js",
     "static/css/850.1c8dc083.chunk.css": "/Portfolio/static/css/850.1c8dc083.chunk.css",
-    "static/js/850.14eeb840.chunk.js": "/Portfolio/static/js/850.14eeb840.chunk.js",
+    "static/js/850.eb01de53.chunk.js": "/Portfolio/static/js/850.eb01de53.chunk.js",
     "static/js/988.a8ae9736.chunk.js": "/Portfolio/static/js/988.a8ae9736.chunk.js",
     "static/css/701.12f8bfdc.chunk.css": "/Portfolio/static/css/701.12f8bfdc.chunk.css",
     "static/js/701.0f20eb15.chunk.js": "/Portfolio/static/js/701.0f20eb15.chunk.js",
-    "static/css/180.3ddbf255.chunk.css": "/Portfolio/static/css/180.3ddbf255.chunk.css",
-    "static/js/180.99b436ba.chunk.js": "/Portfolio/static/js/180.99b436ba.chunk.js",
-    "static/css/809.e1ba32d4.chunk.css": "/Portfolio/static/css/809.e1ba32d4.chunk.css",
-    "static/js/809.a79cf0fe.chunk.js": "/Portfolio/static/js/809.a79cf0fe.chunk.js",
+    "static/css/180.3f6c8535.chunk.css": "/Portfolio/static/css/180.3f6c8535.chunk.css",
+    "static/js/180.98a1cdb8.chunk.js": "/Portfolio/static/js/180.98a1cdb8.chunk.js",
+    "static/css/532.2ca02c70.chunk.css": "/Portfolio/static/css/532.2ca02c70.chunk.css",
+    "static/js/532.e8be642a.chunk.js": "/Portfolio/static/js/532.e8be642a.chunk.js",
     "static/css/351.f71e3acb.chunk.css": "/Portfolio/static/css/351.f71e3acb.chunk.css",
     "static/js/351.b9a09337.chunk.js": "/Portfolio/static/js/351.b9a09337.chunk.js",
     "static/js/309.912faa16.chunk.js": "/Portfolio/static/js/309.912faa16.chunk.js",
@@ -20,7 +20,6 @@
     "static/media/working_on_laptop.png": "/Portfolio/static/media/working_on_laptop.981ce5857be9f917a466.png",
     "static/media/ujjwal_full_stack_C_V.pdf": "/Portfolio/static/media/ujjwal_full_stack_C_V.33e35f13c73013521a16.pdf",
     "static/media/FrontEnd2.png": "/Portfolio/static/media/FrontEnd2.7a267a75add83d4218c2.png",
-    "static/media/buildServer2.png": "/Portfolio/static/media/buildServer2.ffb201f2955a9a2bbc0a.png",
     "static/media/FrontEnd.png": "/Portfolio/static/media/FrontEnd.4c682b64f74787faa93c.png",
     "static/media/Java Collection Frameworks + Generics+ 5.5Hrs.jpg": "/Portfolio/static/media/Java Collection Frameworks + Generics+ 5.5Hrs.8f3331c6cff2afd5ffe5.jpg",
     "static/media/Complete Front-End Web Development Course.jpg": "/Portfolio/static/media/Complete Front-End Web Development Course.4c9b13455c713ffd8c26.jpg",
@@ -37,11 +36,12 @@
     "static/media/Java Servlets and JSP - Build Java EE app.jpg": "/Portfolio/static/media/Java Servlets and JSP - Build Java EE app.35ff1fa9787d59a089db.jpg",
     "static/media/Spring Framework with Spring Boot.jpg": "/Portfolio/static/media/Spring Framework with Spring Boot.594e385c8b3488a42f9f.jpg",
     "static/media/ujjwalAvatar3.png": "/Portfolio/static/media/ujjwalAvatar3.63b2ae7ecb2a77ea2cea.png",
+    "static/media/mobileApp.png": "/Portfolio/static/media/mobileApp.fe4dc6091122627bbf8e.png",
     "static/media/contact.png": "/Portfolio/static/media/contact.5c08eab5b3759511f598.png",
     "index.html": "/Portfolio/index.html"
   },
   "entrypoints": [
-    "static/css/main.f7cdf7e6.css",
-    "static/js/main.f845eb0e.js"
+    "static/css/main.f11d05b1.css",
+    "static/js/main.8ed199c7.js"
   ]
 }
