@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.f11d05b1.css",
-    "main.js": "/Portfolio/static/js/main.8ed199c7.js",
-    "static/css/850.1c8dc083.chunk.css": "/Portfolio/static/css/850.1c8dc083.chunk.css",
-    "static/js/850.eb01de53.chunk.js": "/Portfolio/static/js/850.eb01de53.chunk.js",
+    "main.css": "/Portfolio/static/css/main.0b2136ee.css",
+    "main.js": "/Portfolio/static/js/main.173828af.js",
+    "static/css/256.1c8dc083.chunk.css": "/Portfolio/static/css/256.1c8dc083.chunk.css",
+    "static/js/256.0854be9b.chunk.js": "/Portfolio/static/js/256.0854be9b.chunk.js",
     "static/js/988.a8ae9736.chunk.js": "/Portfolio/static/js/988.a8ae9736.chunk.js",
     "static/css/701.12f8bfdc.chunk.css": "/Portfolio/static/css/701.12f8bfdc.chunk.css",
-    "static/js/701.0f20eb15.chunk.js": "/Portfolio/static/js/701.0f20eb15.chunk.js",
-    "static/css/180.3f6c8535.chunk.css": "/Portfolio/static/css/180.3f6c8535.chunk.css",
-    "static/js/180.98a1cdb8.chunk.js": "/Portfolio/static/js/180.98a1cdb8.chunk.js",
+    "static/js/701.6e6fdf58.chunk.js": "/Portfolio/static/js/701.6e6fdf58.chunk.js",
+    "static/css/351.08e9431a.chunk.css": "/Portfolio/static/css/351.08e9431a.chunk.css",
+    "static/js/351.76ff5265.chunk.js": "/Portfolio/static/js/351.76ff5265.chunk.js",
+    "static/css/180.b58da66d.chunk.css": "/Portfolio/static/css/180.b58da66d.chunk.css",
+    "static/js/180.0e0b2d0e.chunk.js": "/Portfolio/static/js/180.0e0b2d0e.chunk.js",
     "static/css/532.2ca02c70.chunk.css": "/Portfolio/static/css/532.2ca02c70.chunk.css",
-    "static/js/532.e8be642a.chunk.js": "/Portfolio/static/js/532.e8be642a.chunk.js",
-    "static/css/351.f71e3acb.chunk.css": "/Portfolio/static/css/351.f71e3acb.chunk.css",
-    "static/js/351.b9a09337.chunk.js": "/Portfolio/static/js/351.b9a09337.chunk.js",
+    "static/js/532.b78d1957.chunk.js": "/Portfolio/static/js/532.b78d1957.chunk.js",
     "static/js/309.912faa16.chunk.js": "/Portfolio/static/js/309.912faa16.chunk.js",
-    "static/js/811.13fc749a.chunk.js": "/Portfolio/static/js/811.13fc749a.chunk.js",
+    "static/js/156.b4d47734.chunk.js": "/Portfolio/static/js/156.b4d47734.chunk.js",
     "static/media/Java Programming.jpg": "/Portfolio/static/media/Java Programming.5a4a7dd9065147871abc.jpg",
     "static/media/buildServer.png": "/Portfolio/static/media/buildServer.cd3a8edebc0883d4ddb1.png",
     "static/media/working_on_laptop.png": "/Portfolio/static/media/working_on_laptop.981ce5857be9f917a466.png",
@@ -41,7 +41,7 @@
     "index.html": "/Portfolio/index.html"
   },
   "entrypoints": [
-    "static/css/main.f11d05b1.css",
-    "static/js/main.8ed199c7.js"
+    "static/css/main.0b2136ee.css",
+    "static/js/main.173828af.js"
   ]
 }
