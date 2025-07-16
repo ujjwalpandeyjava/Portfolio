@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.db144185.css",
-    "main.js": "/Portfolio/static/js/main.1f080ed4.js",
+    "main.js": "/Portfolio/static/js/main.1a4ec687.js",
     "static/css/256.853206f3.chunk.css": "/Portfolio/static/css/256.853206f3.chunk.css",
     "static/js/256.97731b2d.chunk.js": "/Portfolio/static/js/256.97731b2d.chunk.js",
     "static/js/988.a8ae9736.chunk.js": "/Portfolio/static/js/988.a8ae9736.chunk.js",
@@ -27,7 +27,7 @@
     "static/media/buildServer.png": "/Portfolio/static/media/buildServer.cd3a8edebc0883d4ddb1.png",
     "static/media/microServiceSmall.png": "/Portfolio/static/media/microServiceSmall.21071456a2315679d34a.png",
     "static/media/working_on_laptop.png": "/Portfolio/static/media/working_on_laptop.981ce5857be9f917a466.png",
-    "static/media/Ujjwal-CV-Naukri.pdf": "/Portfolio/static/media/Ujjwal-CV-Naukri.7ca14564eef45a9c63a4.pdf",
+    "static/media/Ujjwal-CV-Naukri.pdf": "/Portfolio/static/media/Ujjwal-CV-Naukri.4b21b4787f1ae76b1926.pdf",
     "static/media/FrontEnd2.png": "/Portfolio/static/media/FrontEnd2.7a267a75add83d4218c2.png",
     "static/media/FrontEnd.png": "/Portfolio/static/media/FrontEnd.4c682b64f74787faa93c.png",
     "static/media/Java Collection Frameworks + Generics+ 5.5Hrs.jpg": "/Portfolio/static/media/Java Collection Frameworks + Generics+ 5.5Hrs.8f3331c6cff2afd5ffe5.jpg",
@@ -50,6 +50,6 @@
   },
   "entrypoints": [
     "static/css/main.db144185.css",
-    "static/js/main.1f080ed4.js"
+    "static/js/main.1a4ec687.js"
   ]
 }
