@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.ad6eac58.css",
-    "main.js": "/Portfolio/static/js/main.58f88856.js",
+    "main.js": "/Portfolio/static/js/main.16cfedba.js",
     "static/js/988.a8ae9736.chunk.js": "/Portfolio/static/js/988.a8ae9736.chunk.js",
     "static/css/100.66dfe0f0.chunk.css": "/Portfolio/static/css/100.66dfe0f0.chunk.css",
     "static/js/100.b9e9fe71.chunk.js": "/Portfolio/static/js/100.b9e9fe71.chunk.js",
@@ -33,7 +33,7 @@
     "static/media/Bootstrap 4 with projects.jpg": "/Portfolio/static/media/Bootstrap 4 with projects.025403c5c965362d9406.jpg",
     "static/media/Advanced JS - JavaScript for QA Engineers and SDETs.jpg": "/Portfolio/static/media/Advanced JS - JavaScript for QA Engineers and SDETs.cc89a510f3454e753a1c.jpg",
     "static/media/Web Development - 22 Courses in 1 Course.jpg": "/Portfolio/static/media/Web Development - 22 Courses in 1 Course.e26edc076d309a61d698.jpg",
-    "static/media/Ujjwal-Simple-CV.pdf": "/Portfolio/static/media/Ujjwal-Simple-CV.5b7fad0080649d0d7f88.pdf",
+    "static/media/Ujjwal-Simple-CV.pdf": "/Portfolio/static/media/Ujjwal-Simple-CV.ae287ab638731e7a543f.pdf",
     "static/media/Complete Best ever Java Course 2000+ example, 92 hours lecture.jpg": "/Portfolio/static/media/Complete Best ever Java Course 2000+ example, 92 hours lecture.e0dd1d4dcbada9d079ec.jpg",
     "static/media/doItTogether.svg": "/Portfolio/static/media/doItTogether.b29492a27d677547e9049cc73894c222.svg",
     "static/media/developer1.svg": "/Portfolio/static/media/developer1.c9e0c37b22bec74e37b418f578a12f87.svg",
@@ -48,6 +48,6 @@
   },
   "entrypoints": [
     "static/css/main.ad6eac58.css",
-    "static/js/main.58f88856.js"
+    "static/js/main.16cfedba.js"
   ]
 }
