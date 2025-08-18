@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.31d062b8.css",
-    "main.js": "/Portfolio/static/js/main.45105dfb.js",
+    "main.js": "/Portfolio/static/js/main.f8506337.js",
     "static/js/988.a8ae9736.chunk.js": "/Portfolio/static/js/988.a8ae9736.chunk.js",
     "static/css/100.66dfe0f0.chunk.css": "/Portfolio/static/css/100.66dfe0f0.chunk.css",
-    "static/js/100.b9e9fe71.chunk.js": "/Portfolio/static/js/100.b9e9fe71.chunk.js",
+    "static/js/100.37b2673e.chunk.js": "/Portfolio/static/js/100.37b2673e.chunk.js",
     "static/css/351.1996264f.chunk.css": "/Portfolio/static/css/351.1996264f.chunk.css",
     "static/js/351.140de7eb.chunk.js": "/Portfolio/static/js/351.140de7eb.chunk.js",
     "static/css/629.a41648be.chunk.css": "/Portfolio/static/css/629.a41648be.chunk.css",
-    "static/js/629.4165e283.chunk.js": "/Portfolio/static/js/629.4165e283.chunk.js",
+    "static/js/629.6c722147.chunk.js": "/Portfolio/static/js/629.6c722147.chunk.js",
     "static/css/348.00196eae.chunk.css": "/Portfolio/static/css/348.00196eae.chunk.css",
-    "static/js/348.b3eceeb0.chunk.js": "/Portfolio/static/js/348.b3eceeb0.chunk.js",
+    "static/js/348.f25406f8.chunk.js": "/Portfolio/static/js/348.f25406f8.chunk.js",
     "static/css/197.f8dd91e5.chunk.css": "/Portfolio/static/css/197.f8dd91e5.chunk.css",
     "static/js/197.32c206a8.chunk.js": "/Portfolio/static/js/197.32c206a8.chunk.js",
-    "static/css/426.673923ae.chunk.css": "/Portfolio/static/css/426.673923ae.chunk.css",
-    "static/js/426.ab9186fc.chunk.js": "/Portfolio/static/js/426.ab9186fc.chunk.js",
+    "static/css/426.83c9d8a1.chunk.css": "/Portfolio/static/css/426.83c9d8a1.chunk.css",
+    "static/js/426.64f846ff.chunk.js": "/Portfolio/static/js/426.64f846ff.chunk.js",
     "static/js/277.4419bf55.chunk.js": "/Portfolio/static/js/277.4419bf55.chunk.js",
     "static/js/681.2d664dde.chunk.js": "/Portfolio/static/js/681.2d664dde.chunk.js",
     "static/js/309.ee9ffb63.chunk.js": "/Portfolio/static/js/309.ee9ffb63.chunk.js",
@@ -24,10 +24,10 @@
     "static/media/buildServer.png": "/Portfolio/static/media/buildServer.cd3a8edebc0883d4ddb1.png",
     "static/media/microServiceSmall.png": "/Portfolio/static/media/microServiceSmall.21071456a2315679d34a.png",
     "static/media/working_on_laptop.png": "/Portfolio/static/media/working_on_laptop.981ce5857be9f917a466.png",
-    "static/media/Ujjwal-CV-Naukri.pdf": "/Portfolio/static/media/Ujjwal-CV-Naukri.57f98751e12b598d6a4b.pdf",
+    "static/media/Ujjwal-CV-Naukri.pdf": "/Portfolio/static/media/Ujjwal-CV-Naukri.beaa7abeab0e12853ee8.pdf",
     "static/media/FrontEnd2.png": "/Portfolio/static/media/FrontEnd2.7a267a75add83d4218c2.png",
     "static/media/FrontEnd.png": "/Portfolio/static/media/FrontEnd.4c682b64f74787faa93c.png",
-    "static/media/Ujjwal-Simple-CV.pdf": "/Portfolio/static/media/Ujjwal-Simple-CV.679299919563b022246b.pdf",
+    "static/media/Ujjwal-Simple-CV.pdf": "/Portfolio/static/media/Ujjwal-Simple-CV.32b0b47a917f847e63ce.pdf",
     "static/media/Java Collection Frameworks + Generics+ 5.5Hrs.jpg": "/Portfolio/static/media/Java Collection Frameworks + Generics+ 5.5Hrs.8f3331c6cff2afd5ffe5.jpg",
     "static/media/Complete Front-End Web Development Course.jpg": "/Portfolio/static/media/Complete Front-End Web Development Course.4c9b13455c713ffd8c26.jpg",
     "static/media/Awesome - Java Programming.jpg": "/Portfolio/static/media/Awesome - Java Programming.454510e9d363c74a3ac6.jpg",
@@ -48,6 +48,6 @@
   },
   "entrypoints": [
     "static/css/main.31d062b8.css",
-    "static/js/main.45105dfb.js"
+    "static/js/main.f8506337.js"
   ]
 }
